@@ -11,3 +11,5 @@ Es ist ein simples Projekt, um die Auslastung von Boulderhallen zu visualisieren
 ## voraussetzungen
 - docker
 - ddev
+## screenshot
+![mockup](/sample/mockup.png)
